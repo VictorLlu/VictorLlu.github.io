@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiachenlu.com/sitemap.xml
+Sitemap: https://victorllu.github.io//sitemap.xml
