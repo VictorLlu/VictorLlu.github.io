@@ -1,42 +1,6 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-18'
 papers:
-  OECsdBsAAAAJ:kNdYIx-mwKoC:
-    citations: 1
-    title: "GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals"
-    year: '2025'
-  OECsdBsAAAAJ:MXK_kJrjxJIC:
-    citations: 1
-    title: "Translating Images to Road Network: A Sequence-to-Sequence Perspective"
-    year: '2025'
-  OECsdBsAAAAJ:8k81kl-MbHgC:
-    citations: 53
-    title: "SeaFormer++: Squeeze-enhanced axial transformer for mobile visual recognition"
-    year: '2025'
-  OECsdBsAAAAJ:UebtZRa9Y70C:
-    citations: 21
-    title: 'Vision transformers: From semantic segmentation to dense prediction'
-    year: '2024'
-  OECsdBsAAAAJ:ufrVoPGSRksC:
-    citations: 86
-    title: 'Wovogen: World volume-aware diffusion for controllable multi-camera driving scene generation'
-    year: '2024'
-  OECsdBsAAAAJ:KlAtU1dfN6UC:
-    citations: 11
-    title: 'Lanegraph2seq: Lane topology extraction with language model via vertex-edge encoding and connectivity enhancement'
-    year: '2024'
-  OECsdBsAAAAJ:_FxGoFyzp5QC:
-    citations: 30
-    title: 'S-nerf++: Autonomous driving simulation via neural reconstruction and generation'
-    year: '2025'
-  OECsdBsAAAAJ:hqOjcs7Dif8C:
-    citations: 20
-    title: 'Softmax-free Linear Transformers'
-    year: '2024'
-  OECsdBsAAAAJ:WF5omc3nYNoC:
-    citations: 17
-    title: 'Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping'
-    year: '2024'
   OECsdBsAAAAJ:0EnyYjriUFMC:
     citations: 15
     title: 'Translating images to road network: A non-autoregressive sequence-to-sequence approach'
@@ -45,24 +9,67 @@ papers:
     citations: 4
     title: 'Suit: Learning significance-guided information for 3d temporal detection'
     year: '2023'
-  OECsdBsAAAAJ:zYLM7Y9cAGgC:
-    citations: 93
-    title: "Generative semantic segmentation"
-    year: '2023'
+  OECsdBsAAAAJ:8k81kl-MbHgC:
+    citations: 54
+    title: 'SeaFormer++: Squeeze-enhanced axial transformer for mobile visual recognition'
+    year: '2025'
   OECsdBsAAAAJ:IjCSPb-OGe4C:
-    citations: 313
-    title: 'Seaformer: Squeeze-enhanced axial transformer for mobile semantic segmentation'
+    citations: 312
+    title: 'SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation'
     year: '2023'
+  OECsdBsAAAAJ:KlAtU1dfN6UC:
+    citations: 11
+    title: 'Lanegraph2seq: Lane topology extraction with language model via vertex-edge encoding and connectivity enhancement'
+    year: '2024'
+  OECsdBsAAAAJ:LkGwnXOMwfcC:
+    citations: 27
+    title: 'S-Agents: self-organizing agents in open-ended environment'
+    year: '2024'
+  OECsdBsAAAAJ:MXK_kJrjxJIC:
+    citations: 1
+    title: 'Translating Images to Road Network: A Sequence-to-Sequence Perspective'
+    year: '2025'
   OECsdBsAAAAJ:Se3iqnhoufwC:
     citations: 70
-    title: 'Learning ego 3d representation as ray tracing'
+    title: Learning ego 3d representation as ray tracing
     year: '2022'
+  OECsdBsAAAAJ:UebtZRa9Y70C:
+    citations: 21
+    title: 'Vision transformers: From semantic segmentation to dense prediction'
+    year: '2024'
+  OECsdBsAAAAJ:WF5omc3nYNoC:
+    citations: 18
+    title: Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping
+    year: '2023'
+  OECsdBsAAAAJ:Zph67rFs4hoC:
+    citations: 3
+    title: Softmax-free linear transformers
+    year: '2022'
+  OECsdBsAAAAJ:_FxGoFyzp5QC:
+    citations: 33
+    title: 'S-nerf++: Autonomous driving simulation via neural reconstruction and generation'
+    year: '2025'
+  OECsdBsAAAAJ:hqOjcs7Dif8C:
+    citations: 18
+    title: Softmax-free Linear Transformers
+    year: '2024'
+  OECsdBsAAAAJ:kNdYIx-mwKoC:
+    citations: 1
+    title: 'GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals'
+    year: '2025'
   OECsdBsAAAAJ:roLk4NBRz8UC:
-    citations: 255
+    citations: 259
     title: 'Soft: Softmax-free transformer with linear complexity'
     year: '2021'
   OECsdBsAAAAJ:u-x6o8ySG0sC:
-    citations: 4785
-    title: 'Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers'
+    citations: 4805
+    title: Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers
     year: '2021'
-  
+  OECsdBsAAAAJ:ufrVoPGSRksC:
+    citations: 87
+    title: 'Wovogen: World volume-aware diffusion for controllable multi-camera driving scene generation'
+    year: '2024'
+  OECsdBsAAAAJ:zYLM7Y9cAGgC:
+    citations: 95
+    title: Generative Semantic Segmentation
+    year: '2023'
