@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-20'
 papers:
   OECsdBsAAAAJ:0EnyYjriUFMC:
-    citations: 15
+    citations: 16
     title: 'Translating images to road network: A non-autoregressive sequence-to-sequence approach'
     year: '2023'
   OECsdBsAAAAJ:3fE2CSJIrl8C:
@@ -46,7 +46,7 @@ papers:
     title: Softmax-free linear transformers
     year: '2022'
   OECsdBsAAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 35
     title: 'S-nerf++: Autonomous driving simulation via neural reconstruction and generation'
     year: '2025'
   OECsdBsAAAAJ:hqOjcs7Dif8C:
@@ -58,11 +58,11 @@ papers:
     title: 'GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals'
     year: '2025'
   OECsdBsAAAAJ:roLk4NBRz8UC:
-    citations: 259
+    citations: 260
     title: 'Soft: Softmax-free transformer with linear complexity'
     year: '2021'
   OECsdBsAAAAJ:u-x6o8ySG0sC:
-    citations: 4805
+    citations: 4821
     title: Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers
     year: '2021'
   OECsdBsAAAAJ:ufrVoPGSRksC:
