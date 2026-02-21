@@ -6,7 +6,7 @@ subtitle: "<a href='https://www.epfl.ch/en/'>EPFL (Swiss Federal Technology Inst
 
 profile:
   align: right
-  image: JiachenLu_CVPR.jpg
+  image: JiachenLu_ICCV.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
