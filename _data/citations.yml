@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-25'
 papers:
   OECsdBsAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -14,7 +14,7 @@ papers:
     title: 'SeaFormer++: Squeeze-enhanced axial transformer for mobile visual recognition'
     year: '2025'
   OECsdBsAAAAJ:IjCSPb-OGe4C:
-    citations: 324
+    citations: 325
     title: 'SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation'
     year: '2023'
   OECsdBsAAAAJ:KlAtU1dfN6UC:
@@ -30,7 +30,7 @@ papers:
     title: 'Translating Images to Road Network: A Sequence-to-Sequence Perspective'
     year: '2025'
   OECsdBsAAAAJ:Se3iqnhoufwC:
-    citations: 70
+    citations: 71
     title: Learning ego 3d representation as ray tracing
     year: '2022'
   OECsdBsAAAAJ:UebtZRa9Y70C:
@@ -54,19 +54,19 @@ papers:
     title: Softmax-free Linear Transformers
     year: '2024'
   OECsdBsAAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 2
     title: 'GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals'
     year: '2025'
   OECsdBsAAAAJ:roLk4NBRz8UC:
-    citations: 265
+    citations: 267
     title: 'Soft: Softmax-free transformer with linear complexity'
     year: '2021'
   OECsdBsAAAAJ:u-x6o8ySG0sC:
-    citations: 4904
+    citations: 4924
     title: Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers
     year: '2021'
   OECsdBsAAAAJ:ufrVoPGSRksC:
-    citations: 96
+    citations: 98
     title: 'Wovogen: World volume-aware diffusion for controllable multi-camera driving scene generation'
     year: '2024'
   OECsdBsAAAAJ:zYLM7Y9cAGgC:
