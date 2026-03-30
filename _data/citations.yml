@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-03-30'
 papers:
   OECsdBsAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -46,7 +46,7 @@ papers:
     title: Softmax-free linear transformers
     year: '2022'
   OECsdBsAAAAJ:_FxGoFyzp5QC:
-    citations: 39
+    citations: 40
     title: 'S-nerf++: Autonomous driving simulation via neural reconstruction and generation'
     year: '2025'
   OECsdBsAAAAJ:hqOjcs7Dif8C:
@@ -62,7 +62,7 @@ papers:
     title: 'Soft: Softmax-free transformer with linear complexity'
     year: '2021'
   OECsdBsAAAAJ:u-x6o8ySG0sC:
-    citations: 4926
+    citations: 4935
     title: Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers
     year: '2021'
   OECsdBsAAAAJ:ufrVoPGSRksC:
