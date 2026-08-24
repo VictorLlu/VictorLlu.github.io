@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   OECsdBsAAAAJ:0EnyYjriUFMC:
     citations: 19
@@ -10,11 +10,11 @@ papers:
     title: 'Suit: Learning significance-guided information for 3d temporal detection'
     year: '2023'
   OECsdBsAAAAJ:8k81kl-MbHgC:
-    citations: 88
+    citations: 89
     title: 'SeaFormer++: Squeeze-enhanced axial transformer for mobile visual recognition'
     year: '2025'
   OECsdBsAAAAJ:IjCSPb-OGe4C:
-    citations: 379
+    citations: 383
     title: 'SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation'
     year: '2023'
   OECsdBsAAAAJ:KlAtU1dfN6UC:
@@ -34,7 +34,7 @@ papers:
     title: Learning ego 3d representation as ray tracing
     year: '2022'
   OECsdBsAAAAJ:UebtZRa9Y70C:
-    citations: 38
+    citations: 39
     title: 'Vision transformers: From semantic segmentation to dense prediction'
     year: '2024'
   OECsdBsAAAAJ:WF5omc3nYNoC:
@@ -54,7 +54,7 @@ papers:
     title: 'Seeing through boxes: Non-Line-of-Sight 3D Reconstruction from Radar Signals'
     year: '2026'
   OECsdBsAAAAJ:hqOjcs7Dif8C:
-    citations: 27
+    citations: 28
     title: Softmax-free Linear Transformers
     year: '2024'
   OECsdBsAAAAJ:kNdYIx-mwKoC:
@@ -66,7 +66,7 @@ papers:
     title: 'Soft: Softmax-free transformer with linear complexity'
     year: '2021'
   OECsdBsAAAAJ:u-x6o8ySG0sC:
-    citations: 5324
+    citations: 5330
     title: Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers
     year: '2021'
   OECsdBsAAAAJ:ufrVoPGSRksC:
@@ -74,6 +74,6 @@ papers:
     title: 'Wovogen: World volume-aware diffusion for controllable multi-camera driving scene generation'
     year: '2024'
   OECsdBsAAAAJ:zYLM7Y9cAGgC:
-    citations: 117
+    citations: 116
     title: Generative Semantic Segmentation
     year: '2023'
